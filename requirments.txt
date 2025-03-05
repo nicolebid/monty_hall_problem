@@ -1,4 +1,0 @@
-random
-matplotlib
-ipywidgets
-IPython
